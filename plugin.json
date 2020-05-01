@@ -1,0 +1,12 @@
+{
+
+    "name"              : "ErstberatungSynesty",
+    "version"           : "1.0.0",
+    "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
+    "pluginIcon"        : "icon_plugin_xs.png",
+    "description"       : "Beratung zur Nutzung von Synesty Studio in Verbindung mit plentymarkets",
+    "author"            : "Diana Hannes datamazing",
+    "authorIcon"        : "icon_author_xs.png",
+    "type"              : "service",
+    "namespace"         : "ErstberatungSynesty"
+}
